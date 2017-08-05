@@ -18,6 +18,8 @@
 
 ```bcoseth构建成功!!!```
 
+目录下会出现bcos目录。
+
 
 
 其他情况：
@@ -29,7 +31,7 @@
 请手工进入构建目录继续编译
 
 ```
-cd build
+cd bcos/build
 make
 ```
 
@@ -39,20 +41,15 @@ make
 
 
 
-1. 获取快速构建脚本包 
+1. 更新配置文件（默认可用，可以不用更新）
 
-```
-mkdir init
-cd init
-wget https://github.com/toxotguo/bcos/raw/master/init/init.tar.gz
-tar xzvf init.tar.gz
-```
+   进入初始化目录
 
-*注意：该脚本包根据当前官方版本特性编写而来，不保证能及时更新到官方最新版本*
+   ```
+   cd bcos/init
+   ```
 
-
-
-2. 更新配置文件（默认可用，可以不用更新）
+   ​
 
 目录下的node0.sample、node1.sample是已经配置好的两个默认配置。也可以根据需要来改动。
 
@@ -67,7 +64,7 @@ tar xzvf init.tar.gz
     }
 
 
-3. 执行初始化命令
+2. 执行初始化命令
 
 命令使用方法：```Usage: node init.js node0.sample node1.sample node2.sample... ```
 
