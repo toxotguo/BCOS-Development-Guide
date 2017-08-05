@@ -69,7 +69,9 @@ tar xzvf init.tar.gz
 
 3. 执行初始化命令
 
-做好配置文件的更新之后，执行初始化
+命令使用方法：```Usage: node init.js node0.sample node1.sample node2.sample... ```
+
+做好配置文件的更新之后，执行初始化:
 
 ```node init.js node0.sample node1.sample ```
 
