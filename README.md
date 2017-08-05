@@ -9,7 +9,7 @@ BCOS 开发指南（非官方）
 希望本指南能为BCOS社区爱好者提供环境搭建、网络部署、应用开发等方面的帮助信息。
 如有任何疑问欢迎留言。
 
-第一章 [快速构建](https://github.com/toxotguo/BCOS-Development-Guide/blob/master/chapter-01.md)
+第一章 [快速构建BCOS区块链](https://github.com/toxotguo/BCOS-Development-Guide/blob/master/chapter-01.md)
 
  
 
