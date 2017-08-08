@@ -11,6 +11,5 @@ BCOS 开发指南（非官方）
 如有任何疑问欢迎留言。
 
 第一章 [快速搭建BCOS区块链](https://github.com/toxotguo/BCOS-Development-Guide/blob/master/chapter-01.md)
-
- 
+第二章 [节点动态入网、退网](https://github.com/toxotguo/BCOS-Development-Guide/blob/master/chapter-02.md)
 
