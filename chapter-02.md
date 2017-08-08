@@ -22,7 +22,7 @@ node newnode.js 创世节点的初始化文件路径  新节点的初始化文�
 
 其中初始化项的含义请参看[第一章](https://github.com/toxotguo/BCOS-Development-Guide/blob/master/chapter-01.md) 中的说明。
 
-在quickstart目录下已经默认有node1.sample初始化文件，可以根据需要来变更。
+在quickstart目录下已经默认有node1.sample初始化文件，可以根据需要来变更。（**默认可用，可以不用更新**）
 
 ```
 示例node1.sample
@@ -69,7 +69,7 @@ cd ../tool
 babel-node monitor.js
 ```
 
-正常情况下，会有类似以下输出，输出可以看到这个节点已经连接上另外一个节点，且网络的块高在不断增长，既是说明区块链在正常运行中。
+正常情况下，会有类似以下输出，输出信息可以看到这个节点已经连接上另外一个节点，且网络的块高度在不断增长，既是说明区块链在正常运行中。
 
 ```
 已连接节点数：1

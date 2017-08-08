@@ -129,4 +129,4 @@ INFO|2017-08-05 22:39:01|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ Report: blk=41,hash=33e36
 
 
 
-*第二章将介绍新节点动态加入区块链网络*
+*[第二章](https://github.com/toxotguo/BCOS-Development-Guide/blob/master/chapter-02.md) 将介绍新节点动态加入区块链网络*
