@@ -14,3 +14,4 @@ BCOS 开发指南（非官方）
 
 第二章 [节点动态入网、退网](https://github.com/toxotguo/BCOS-Development-Guide/blob/master/chapter-02.md)
 
+BCOS系统合约介绍 [BCOS系统合约介绍](https://github.com/toxotguo/BCOS-Development-Guide/blob/master/BCOS系统合约介绍.md)
